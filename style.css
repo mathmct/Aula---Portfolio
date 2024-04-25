@@ -128,6 +128,24 @@ h1:hover {
     opacity: 0.8;
 }
 
+.tabela1:hover {
+    box-shadow: 10px 5px 5px black;
+    border-color: var(--cor1)
+}
+
+.tabela2:hover {
+    box-shadow: 10px 5px 5px black;
+    border-color: var(--cor1)
+}
+
+.tabela3:hover {
+    box-shadow: 10px 5px 5px black;
+    border-color: var(--cor1)
+}
+
+.hab:hover{
+    border-color: var(--cor1)
+}
 /* Hover com Translação */
 .translacao {
     transition: transform 0.3s ease;
